@@ -1,0 +1,1 @@
+# go-kinesis-streams-example
